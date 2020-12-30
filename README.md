@@ -5,7 +5,7 @@ This project is classifier that predicts the breed of a dog based on a picture. 
 
 ## What You Need to Get Started
 ### First, you can check out my code [here](https://github.com/jsreddy3/Dog-Breed-Classifier/blob/master/dog_app_prediction.ipynb).
-###Next, I would check out [this link](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification) and follow the recommendations and instructions on how this all works.
+### Next, I would check out [this link](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification) and follow the recommendations and instructions on how this all works.
 
 ## Prerequisite Files and Structures
 #### First, you need a Jupyter Notebook. I do all my code through [Anaconda](https://www.anaconda.com).
