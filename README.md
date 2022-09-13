@@ -9,7 +9,7 @@ Next, I would check out [this link](https://github.com/udacity/deep-learning-v2-
 
 ## Prerequisite Files and Structures
 First, you need a Jupyter Notebook. I do all my code through [Anaconda](https://www.anaconda.com).
-Next, you need a GPU or a CPU. I highly recommend a GPU; if you're following along with the Udacity Nanodegree there should be one available.
+Next, you need a GPU or a CPU. I highly recommend a GPU.
 Next, you're going to need the files. Go to the recommendations and instructions I attached in the "What You Need to Get Started" Section; I would use 7zip to download the dog and human datasets, as explained by @udacity.
 You also need PyTorch and its corresponding libraries. You can check out some installation instructions on the [PyTorch website](https://pytorch.org/get-started/previous-versions/)
 A portion of the project uses a face detector. You can find that on [this Kaggle site](https://pytorch.org/get-started/previous-versions/). For some reason this does not seem to work unless you have created your own Kaggle account (free).
