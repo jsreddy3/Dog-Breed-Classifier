@@ -1,7 +1,7 @@
 ## Dog-Breed-Classifier
 # Figure out what kind of dog your dog - and your friends - really are
 
-This project is classifier that predicts the breed of a dog based on a picture. This was built using CNN transfer learning as a project for the Udacity Deep learning Nanodegree.
+This project is classifier that predicts the breed of a dog based on a picture. This was built using CNN transfer learning.
 
 ## What You Need to Get Started
 First, you can check out my code [here](https://github.com/jsreddy3/Dog-Breed-Classifier/blob/master/dog_app_prediction.ipynb).
